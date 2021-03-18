@@ -5,7 +5,7 @@
 
 # Sobre ✏️
 ---
-Um dos desafios de front end do [DevChallenge](https://www.devchallenge.com.br/challenges), esse é um site gerador de conselhos de bode usando a API [Advice Slip] [aqui](https://api.adviceslip.com)
+Um dos desafios de front end do [DevChallenge](https://www.devchallenge.com.br), esse é um site gerador de conselhos de bode usando a API [Advice Slip](https://api.adviceslip.com)
 
 # Ferramentas/Tecnologias ⚙️
 ---
