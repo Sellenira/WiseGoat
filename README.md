@@ -16,10 +16,10 @@ Um dos desafios de front end do [DevChallenge](https://www.devchallenge.com.br),
 
 # Demonstração do projeto 🔬
 ---
-Clique [aqui](https://abookshelf.netlify.app) para visualizar
+Clique [aqui](https://conselhosdobode.netlify.app/) para visualizar
 
 ### Web:
-![demo](https://user-images.githubusercontent.com/78499911/110220707-32fc5280-7ea6-11eb-8d30-82e129474c98.jpg)
+![screen](https://user-images.githubusercontent.com/78499911/111704108-61bae700-881d-11eb-862d-00f4435d6012.jpg)
 
 ### Mobile:
 ![IMG-3900_Easy-Resize com](https://user-images.githubusercontent.com/78499911/110247620-df444480-7f4b-11eb-9ee3-7fc1b33c5156.jpg)
