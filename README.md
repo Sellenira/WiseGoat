@@ -11,7 +11,7 @@ Um dos desafios de front end do [DevChallenge](https://www.devchallenge.com.br),
 ---
 * CSS
 * HTML
-* JavaScrit para consumo da API.
+* JavaScript para consumo da API.
 * Visual Studio Code
 
 # Demonstração do projeto 🔬
