@@ -20,9 +20,6 @@ Clique [aqui](https://conselhosdobode.netlify.app/) para visualizar
 
 ### Web:
 ![screen](https://user-images.githubusercontent.com/78499911/111704108-61bae700-881d-11eb-862d-00f4435d6012.jpg)
-
-### Mobile:
-![IMG-3900_Easy-Resize com](https://user-images.githubusercontent.com/78499911/110247620-df444480-7f4b-11eb-9ee3-7fc1b33c5156.jpg)
 	
 ---
 Desenvolvido por Marselle Nira 🙋
