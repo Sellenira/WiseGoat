@@ -1,7 +1,7 @@
-# WiseGoat
+# WiseGoat 🐐
 ---
 
-![logo](https://user-images.githubusercontent.com/78499911/110220982-2aa51700-7ea8-11eb-92e2-d039b05d1c00.jpg)
+![logo](https://user-images.githubusercontent.com/78499911/111703348-49969800-881c-11eb-9d41-ebf32db67a0c.jpg)
 
 # Sobre ✏️
 ---
