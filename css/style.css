@@ -122,8 +122,8 @@ body {
         animation: anima 3s infinite;
     }
 
-	.conselho {
-        width: 250px;
+     .conselho {
+        width: 300px;
         height: 350px;
         background-color: #fff0ff;
         margin-left: 0px;
@@ -131,7 +131,7 @@ body {
     }
 
     .imagem {
-        width: 250px;
+        width: 300px;
         height: 250px;
         background-color: #fff1ff;
         margin-left: 0px;
