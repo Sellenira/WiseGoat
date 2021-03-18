@@ -149,12 +149,12 @@ body {
 
     .Bode {
         height: 250px;
-        padding: 0 110px;
+        padding: 0 100px;
         animation: anima 3s infinite;
     }
 
     .sair {
-        margin-left: 110px;
+        margin-left: 80px;
         margin-top: 40px;
     }
 }
