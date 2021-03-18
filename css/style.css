@@ -1,0 +1,202 @@
+body {
+    font-family: Roboto, Arial, sans-serif;
+}
+
+.bodezinho {
+    height: 400px;
+    margin-left: 900px;
+    margin-top: -50px;
+}
+
+.text {
+    margin-top: 240px;
+    margin-left: 400px;
+}
+
+.text h2 {
+    color: #BAA193;
+    font-size: 40px;
+}
+
+.text h1 {
+    color: #72005F;
+    font-size: 100px;
+    margin-top: -40px;
+}
+
+.btn {
+    text-align: center;
+    margin-left: 410px;
+    margin-top: -30px;
+    width: 230px;
+    background-color: #72005F;
+    border-radius: 10px;
+}
+
+.btn p {
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    padding: 14px 0;
+}
+
+.btn a {
+    text-decoration: none;
+}
+
+.bodezinho {
+   height: 400px;
+   margin-top: -450px;
+   margin-left: 760px;
+   animation: anima 3s infinite;
+}
+
+@keyframes anima{
+    from{ transform: translateY(-1px);}
+    to{transform: translateY(-500px);}
+    from{transform: translateY(-10px);}
+    to{transform: translateY(-2px);}
+}
+
+.conselho {
+    width: 450px;
+    height: 350px;
+    background-color: #fff0ff;
+    margin-top: 180px;
+    margin-left: 300px;
+}
+
+.conselho h3 {
+    font-family: Roboto, Arial, sans-serif;
+    font-size: 25px;
+    padding: 80px 100px;
+    width: 250px;
+    height: 5px;
+    color: #72005F;
+}
+
+.conselho p {
+    margin-top: 100px;
+    margin-left: 300px;
+    color: #BAA193;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.imagem {
+    width: 350px;
+    height: 350px;
+    background-color: #fff1ff;
+    border: 1px dashed #72005F;
+    margin-left: 730px;
+    margin-top: -350px;
+    border-radius: 20px;
+}
+
+.Bode {
+    height: 350px;
+    padding: 0 50px;
+    animation: anima 3s infinite;
+}
+
+.sair {
+    margin-left: 580px;
+    margin-top: 40px;
+}
+
+@media only screen and (max-width: 787px) {
+    .text {
+        margin-top: 80px;
+        margin-left: 100px;
+    }
+
+    .botao1{
+        margin-left: 110px;
+        margin-top: -30px;
+    }
+    
+    .bodezinho {
+        height: 400px;
+        margin-top: 20px;
+        margin-left: 90px;
+        animation: anima 3s infinite;
+    }
+
+	.conselho {
+        width: 450px;
+        height: 350px;
+        background-color: #fff0ff;
+        margin-left: 0px;
+        margin-top: -20px;
+    }
+
+    .imagem {
+        width: 450px;
+        height: 250px;
+        background-color: #fff1ff;
+        margin-left: 0px;
+        margin-top: 0px;
+        border: none;
+        border-radius: 0;
+    }
+
+    .Bode {
+        height: 250px;
+        padding: 0 140px;
+        animation: anima 3s infinite;
+    }
+
+    .sair {
+        margin-left: 110px;
+        margin-top: 40px;
+    }
+}
+
+@media only screen and (min-width: 788px) and (max-width: 979px) {
+    .text {
+        margin-top: 80px;
+        margin-left: 250px;
+    }
+
+    .botao1{
+        margin-left: 260px;
+        margin-top: -30px;
+    }
+    
+    .bodezinho {
+        height: 400px;
+        margin-top: 20px;
+        margin-left: 230px;
+        animation: anima 3s infinite;
+    }
+
+	.conselho {
+        width: 450px;
+        height: 350px;
+        background-color: #fff0ff;
+        margin-left: 150px;
+        margin-top: -20px;
+    }
+
+    .imagem {
+        width: 450px;
+        height: 250px;
+        background-color: #fff1ff;
+        margin-left: 150px;
+        margin-top: 0px;
+        border: none;
+        border-radius: 0;
+    }
+
+    .Bode {
+        height: 250px;
+        padding: 0 140px;
+        animation: anima 3s infinite;
+    }
+
+    .sair {
+        margin-left: 250px;
+        margin-top: 40px;
+    }
+
+}
